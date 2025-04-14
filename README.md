@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Darkenare11
-- 👀 I’m interested in ethical hacking and front end
+- 👀 I’m interested in ethical hacking and Network Security
 - 🌱 I’m currently learning front end
 - 💞️ I’m looking to collaborate on ethical hacking
 - 📫 How to reach me ariyanarup123@gmail.com
